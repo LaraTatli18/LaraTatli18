@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LaraTatli18
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m collaborating on a 2D strategy video game
-- 📫 You can reach me via X or LinkedIn
+- 💞️ I’m working on a quantum optimisation project
+- 📫 You can reach me via Twitter/X or LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like sketch drawing!
 
