@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaraTatli18
 - 👀 I’m interested in physics
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working on my programming skills
 - 💞️ I’m working on a quantum optimisation project
 - 📫 You can reach me via Twitter/X or LinkedIn
 - 😄 Pronouns: she/her
