@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaraTatli18
 - 👀 I’m interested in physics
 - 🌱 I’m currently working on my programming skills
-- 💞️ I’m building a quantum adiabatic algorithm in Python
+- 💞️ I’m building a path integral quantum annealing (PIQA) algorithm in Python
 - 📫 You can reach me via Twitter/X or LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like sketch drawing!
