@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @LaraTatli18
-- 👀 I’m interested in physics
-- 🌱 I’m currently working on my programming skills
-- 💞️ I’m building a path integral quantum annealing (PIQA) algorithm in Python
-- 📫 You can reach me via Twitter/X or LinkedIn
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like sketch drawing!
+Student at the University of Oxford reading MSc Quantum Technologies; ex-Physics at Durham University
+Interested in quantum error correction, quantum algorithms, and software engineering
 
 <!---
 LaraTatli18/LaraTatli18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
